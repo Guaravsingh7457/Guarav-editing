@@ -56,7 +56,7 @@
 <div class="section">
     <h2>📞 Contact Me</h2>
     <p>WhatsApp for orders:</p>
-    <a class="btn" href="https://wa.me/91XXXXXXXXXX" target="_blank">Message on WhatsApp</a>
+    <a class="btn" href="https://wa.me/917457019327" target="_blank">Message on WhatsApp</a>
 </div>
 
 </body>
